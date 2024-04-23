@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sam09040
 - 👀 I’m interested in C, C++, Python, Java and C#
 - 🌱 I’m currently learning Java, Python and MySQL
-- 💞️ I’m looking to work and have job opportunities to gain experience 
+- 💞️ I’m looking for work and have job opportunities to gain experience 
 - I'm fluent in portuguese and english
 - 📫 How to reach me: through my email -- jpalmeida0904@gmail.com 
 ----
