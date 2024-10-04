@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Sam09040
 - 👀 I’m interested in C, C++, Python, Java and C#
-- 🌱 I’m currently learning Java, Python and MySQL
+- 🌱 I’m currently learning Java, Python and PostgreSQL
 - 💞️ I’m looking for work and have job opportunities to gain experience 
 - I'm fluent in portuguese and english
 - 📫 How to reach me: through my email -- jpalmeida0904@gmail.com 
 ----
 - 👋 Oi, eu sou @Sam09040
 - 👀 Estou interessado em C, C++, Python, Java e C#
-- 🌱 Estou aprendendo recentemente Java, Python e MySQL
+- 🌱 Estou aprendendo recentemente Java, Python e PostgreSQL
 - 💞️ Procuro emprego e oportunidades de trabalho para ganhar experiência
 - Sou fluente em português e inglês
 - 📫 Como me contatar: pelo meu email -- jpalmeida0904@gmail.com
